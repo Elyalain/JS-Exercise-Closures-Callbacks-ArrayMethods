@@ -19,7 +19,7 @@ function processFirstItem(stringList, callback) {
 }
 
 // ⭐️ Example Challenge END ⭐️
-
+Hello
 
 // 👇 COMPLETE YOUR WORK BELOW 👇
 // 👇 COMPLETE YOUR WORK BELOW 👇
